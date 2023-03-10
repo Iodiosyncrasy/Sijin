@@ -4,5 +4,17 @@
   "artist": "Yuewen Manhua",
   "author": "Willow Leaves In Winter",
   "cover": "https://web.archive.org/web/20221003072223im_/https://timelessleaf.com/wp-content/uploads/2020/06/50-3-467x1024.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1678434323",
+      "groups": {
+        "Timeless Leaf": [
+          "https://web.archive.org/web/20221020113516im_/https://timelessleaf.com/wp-content/uploads/2020/06/0-3.jpg",
+          ""
+        ]
+      }
+    }
+  }
 }
